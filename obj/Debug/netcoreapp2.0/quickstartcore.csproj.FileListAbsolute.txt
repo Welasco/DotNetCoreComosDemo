@@ -1,0 +1,11 @@
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\bin\Debug\netcoreapp2.0\quickstartcore.deps.json
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\bin\Debug\netcoreapp2.0\quickstartcore.runtimeconfig.json
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\bin\Debug\netcoreapp2.0\quickstartcore.runtimeconfig.dev.json
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\bin\Debug\netcoreapp2.0\quickstartcore.dll
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\bin\Debug\netcoreapp2.0\quickstartcore.pdb
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.csprojAssemblyReference.cache
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.csproj.CoreCompileInputs.cache
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.AssemblyInfoInputs.cache
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.AssemblyInfo.cs
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.dll
+C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.pdb
