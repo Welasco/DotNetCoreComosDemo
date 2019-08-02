@@ -26,7 +26,7 @@
 
                 System.Console.WriteLine("Exception at Index: " + e.Message);
                 System.Console.WriteLine("Stack at Index: " + e.StackTrace);
-                return null;
+                return View(e.Message + e.StackTrace);
             }
 
 

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "5d4b8af446d4b96b7fb35dbf10847b87ce449bfa"
+    "signature": "c945abaa740fedb8b50d04de9044c13c5c115e8d"
   },
   "compilationOptions": {
     "defines": [
@@ -26,7 +26,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.Azure.DocumentDB.Core": "1.9.1",
-          "Microsoft.NETCore.App": "2.0.0"
+          "Microsoft.NETCore.App": "2.0.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.4.10"
         },
         "runtime": {
           "quickstartcore.dll": {}
@@ -2777,6 +2778,7 @@
           "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.4.10": {},
       "Microsoft.VisualStudio.Web.BrowserLink/2.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.0.1",
@@ -5805,6 +5807,13 @@
       "sha512": "sha512-6u8JIuvrztse4tPOcvNzAJuzGBP0uY+Ijggk8ZYhp0siGEZ1XfZylf1vpNGUicvwcrhhoIgDW73Z1L6QGssr2g==",
       "path": "microsoft.rest.clientruntime.azure/3.3.7",
       "hashPath": "microsoft.rest.clientruntime.azure.3.3.7.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.4.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V7H6e/ZkxYtBzFZxuj0N/ubyiwkGfZnS7Ha+W9mvqfrA8XLiEg8H5SzYh+kVeb45nvFMI1/8XA6Nuj09t/OE5Q==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.4.10",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.4.10.nupkg.sha512"
     },
     "Microsoft.VisualStudio.Web.BrowserLink/2.0.1": {
       "type": "package",

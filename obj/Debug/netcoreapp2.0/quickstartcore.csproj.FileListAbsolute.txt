@@ -9,3 +9,14 @@ C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\qu
 C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.AssemblyInfo.cs
 C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.dll
 C:\Users\vsantana\Desktop\Cases\Maksym\quickstartcore\obj\Debug\netcoreapp2.0\quickstartcore.pdb
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\bin\Debug\netcoreapp2.0\quickstartcore.deps.json
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\bin\Debug\netcoreapp2.0\quickstartcore.runtimeconfig.json
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\bin\Debug\netcoreapp2.0\quickstartcore.runtimeconfig.dev.json
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\bin\Debug\netcoreapp2.0\quickstartcore.dll
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\bin\Debug\netcoreapp2.0\quickstartcore.pdb
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\obj\Debug\netcoreapp2.0\quickstartcore.csprojAssemblyReference.cache
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\obj\Debug\netcoreapp2.0\quickstartcore.csproj.CoreCompileInputs.cache
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\obj\Debug\netcoreapp2.0\quickstartcore.AssemblyInfoInputs.cache
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\obj\Debug\netcoreapp2.0\quickstartcore.AssemblyInfo.cs
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\obj\Debug\netcoreapp2.0\quickstartcore.dll
+C:\Projects\VSProjects-2017\DotNetCoreComosDemo\obj\Debug\netcoreapp2.0\quickstartcore.pdb
